@@ -34,6 +34,6 @@ public class LabBasicSyntax1 {
 		 System.out.println("This is a character "+ aplabet);
 	}
 	
-	//test
+	//test 334543
 
 }
